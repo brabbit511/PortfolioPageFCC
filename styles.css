@@ -1,0 +1,60 @@
+ body {
+   background-color: #c1c1c1;
+   background-image: url();
+   margin: 60px 10px 50px 10px;
+ }
+
+ div {
+   margin: 0 auto;
+ }
+ h1 {
+   font-family: 'Raleway', sans-serif;
+   font-size: 36px;
+   padding-top: 2px;
+   text-align: center;
+ }
+ h2 {
+  font-family: 'Raleway', serif;
+  padding-top: 20px;
+  text-align: center;
+}
+ h3 {
+   font-size: 20px;
+   padding-top: 2px;
+   text-align: center;
+ }
+p {
+   font-size: 14px;
+}
+img {
+  width:100%;
+}
+.row {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+ .navbar-inverse .brand,
+ .navbar-inverse .nav > li > a {
+   color: #000;
+ }
+ 
+ .card {
+   background-color: #fff;
+   box-shadow: 0 1px 5px 0;
+   padding-bottom: 2em;
+  
+ }
+ 
+ .card-text {
+   padding-left: 10px;
+   padding-right: 10px;
+ }
+ 
+ .card-footer {
+   padding-left: 5px;
+}
+
+a:hover i {
+    display: inline-block;
+    text-decoration:none;
+}
